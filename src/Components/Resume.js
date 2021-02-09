@@ -39,8 +39,7 @@ class Resume extends Component {
          </div>
       </div>
 
-
-      <div className="row work">
+      {/* <div className="row work">
 
          <div className="three columns header-col">
             <h1><span>Work</span></h1>
@@ -48,8 +47,9 @@ class Resume extends Component {
 
          <div className="nine columns main-col">
           {work}
-        </div>
-    </div>
+        </div> 
+      </div> */}
+      
 
 
 

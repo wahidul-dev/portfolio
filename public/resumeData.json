@@ -1,66 +1,78 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Wahidul Hasan Abir",
+    "occupation": "Student, Bachelor in Computer Science & Engineering",
+    "description": "Front End React Developer by Day, Freelancer by Night.",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "bio": "My name is Wahidul, I'm a Front End ReactJS Developer. Currently I'm doing my undergraduate in North South University and also a freelancer ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "wahidul.abir@northsouth.edu",
+    "phone": "+8801791924449",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Bashundhara R/A",
+      "city": "Dhaka",
+      "state": "",
+      "zip": "1229"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.wahidul.dev",
+    "resumedownload": "https://github.com/wahidul-dev/portfolio/blob/master/Wahidul%20Hasan%20Abir%20Resume.pdf",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/AbirTGM",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/wahidul-hasan-abir-b84686137/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/abirtgm/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/wahidul-dev",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "North South University",
+        "degree": "Bachelor of Science in Computer Science & Engineering",
+        "graduated": "2017 - 2021",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "company name",
+        "title": "",
+        "years": "",
+        "description": ""
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
       }
     ],
     "skills": [
@@ -69,23 +81,23 @@
         "level": "100%"
       },
       {
-        "name": "CSS",
+        "name": "REST API",
         "level": "95%"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "70%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "Material UI",
+        "level": "95%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "Firebase",
+        "level": "85%"
       },
       {
-        "name": "MongoDB",
+        "name": "MySQL",
         "level": "80%"
       }
     ]
@@ -93,34 +105,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS, Stripe Payment & React Context API",
+        "image": "amazon.jpeg",
+        "url": "https://clone-3c25a.web.app/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Covid-19 Tracker",
+        "category": "Covid-19 tracker with ReactJS, ChartJS, line Graph",
+        "image": "covidtracker.jpeg",
+        "url": "https://covidtracker-16158.web.app"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Spotify Clone",
+        "category": "Spotify Clone built with ReactJS, Material UI",
+        "image": "spotify.jpeg",
+        "url": "https://spotify-5981c.web.app"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "WhatsApp Clone",
+        "category": "WhatsApp clone built with ReactJS, FireStore, Material UI",
+        "image": "whatsapp.jpeg",
+        "url": "https://whatsapp-170c4.firebaseapp.com/"
       }
     ]
   },

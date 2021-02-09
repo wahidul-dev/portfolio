@@ -1,5 +1,6 @@
 {
   "name": "personalportfolio",
+  "homepage": "https://wahidul.dev",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
